@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanlf&show_icons=true&theme=dark)](https://github.com/natanlf/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanlf&show_icons=true&theme=dark)](https://github.com/natanlf?tab=repositories) 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlf&langs_count=3&theme=dark)](https://github.com/natanlf/github-readme-stats)-->
 <!--
