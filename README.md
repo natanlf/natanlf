@@ -1,16 +1,8 @@
 # Hi, I'm Natan 👋
 
-Backend Software Engineer focused on building scalable, secure, and high-performance systems.
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natanlf)](https://github.com/natanlf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-lara-ferreira-4a130826/)](https://www.linkedin.com/in/natan-lara-ferreira-4a130826/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanlf&show_icons=true&theme=dark)](https://github.com/natanlf?tab=repositories) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlf&layout=compact&theme=dark&hide=php)](https://github.com/natanlf/github-readme-stats)
-
 ## 🚀 About Me
 
-I’m a backend engineer with strong experience in designing and developing scalable APIs using Java.
+I’m a software engineer with strong experience in designing and developing scalable APIs using Java.
 
 Currently, I work on Brazil’s Open Finance ecosystem, building microservices and event-driven systems that handle millions of users. My focus is on performance, reliability, and clean architecture.
 
@@ -54,6 +46,14 @@ I hold a Bachelor’s degree in Information Systems and a postgraduate degree in
 - Messaging platforms (Event Hub, Service Bus)
 
 ---
+
+I am focused on building scalable, secure, and high-performance systems.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natanlf)](https://github.com/natanlf)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-lara-ferreira-4a130826/)](https://www.linkedin.com/in/natan-lara-ferreira-4a130826/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanlf&show_icons=true&theme=dark)](https://github.com/natanlf?tab=repositories) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlf&layout=compact&theme=dark&hide=php)](https://github.com/natanlf/github-readme-stats)
 
 ## 🌐 Contact
 
