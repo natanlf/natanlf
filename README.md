@@ -27,29 +27,39 @@ I hold a Bachelor’s degree in Information Systems and a postgraduate degree in
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Java (17+)
-- Quarkus, Spring Boot
+### 💻 Backend
+- ☕ Java (17+)
+- ⚡ Quarkus, 🌱 Spring Boot
 
-**Architecture**
-- Microservices
-- Clean Architecture
-- Event-Driven Systems
+### 🎨 Frontend
+- 🅰️ Angular
+- ⚛️ Next.js
 
-**Cloud & Delivery**
-- CI/CD Pipelines
-- Docker
-- Azure (App Insights, Event Hub, Service Bus, ADX)
+### 🧱 Architecture
+- 🧩 Microservices
+- 🏛️ Clean Architecture
+- 📡 Event-Driven Systems
 
-**Data & Messaging**
-- SQL & NoSQL
-- Messaging platforms (Event Hub, Service Bus)
+### 🤖 AI Integration
+- 🔗 Integration with LLM APIs (AI assistants)
+- 💬 Prompt-based workflows and backend orchestration
+
+### ☁️ Cloud & Delivery
+- 🔄 CI/CD Pipelines
+- 🐳 Docker
+- ☁️ Azure (📊 App Insights, 📡 Event Hub, 📨 Service Bus, 📈 ADX)
+
+### 🗄️ Data & Messaging
+- 🧮 SQL & 🧾 NoSQL
+- 📨 Messaging platforms (📡 Event Hub, 📨 Service Bus)
 
 ---
 
-I am focused on building scalable, secure, and high-performance systems.
+<!-- I am focused on building scalable, secure, and high-performance systems. -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanlf&show_icons=true&theme=dark)](https://github.com/natanlf?tab=repositories) 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanlf&show_icons=true&theme=dark)](https://github.com/natanlf?tab=repositories)-->
+## :computer: Most used languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlf&layout=compact&theme=dark&hide=php)](https://github.com/natanlf/github-readme-stats)
 
 ## 🌐 Contact
