@@ -28,7 +28,7 @@ I hold a Bachelor’s degree in Information Systems and a postgraduate degree in
 ## 🛠 Tech Stack
 
 ### 💻 Backend
-- ☕ Java (17+)
+- ☕ Java (11+)
 - ⚡ Quarkus, 🌱 Spring Boot
 
 ### 🎨 Frontend
