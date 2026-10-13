@@ -2,56 +2,81 @@
 
 ## 🚀 About Me
 
-I’m a software engineer with strong experience in designing and developing scalable APIs using Java.
+I'm a Software Engineer with over 7 years of experience in Java building scalable, secure and high-performance systems. My expertise covers Java, Quarkus, Spring boot, Microservices, Cosmos DB, Redis, messaging (Azure Eventhub, Service Bus and Kafka), Docker and cloud platforms (Azure and AWS). I also have experience with Angular, React (Next.js), MySQL and PostgreSQL. I'm passionate about designing solutions that combine scalability, clean code and high performance. 
 
-Currently, I work on Brazil’s Open Finance ecosystem, building microservices and event-driven systems that handle millions of users. My focus is on performance, reliability, and clean architecture.
+I have contributed to companies in the banking, finance, e-commerce, legal, and insurance sectors—such as Caixa Econômica, BMA, and Sinaf—gaining experience in modernizing systems and collaborating on the development of high-performance, scalable and secure software.
 
-I’m also involved in the software delivery lifecycle, working with CI/CD pipelines, releases, and deployments to ensure stable and reliable production environments.
-
-Additionally, I work with messaging systems such as Service Bus and Event Hub, and I use Azure App Insights and Azure Data Explorer (ADX) for monitoring, telemetry, and performance analysis.
-
-I hold a Bachelor’s degree in Information Systems and a postgraduate degree in Frontend Web Development, which gives me a solid understanding of end-to-end application development.
+I value teamwork, software quality, and continuous improvement, employing coding best practices such as Clean Code, SonarQube, OWASP, and unit testing. I also explore system integrations, including LLM APIs, having built a personal project for an AI-powered travel assistant.
 
 ---
 
-## 💡 What I Do
+## 💡 Key Achievements
 
-- Design and build scalable REST APIs
-- Develop microservices and distributed systems
-- Work with event-driven architecture and messaging systems
-- Focus on performance, reliability, and system resilience
-- Apply Clean Architecture and sound engineering principles
-- Contribute to production-ready delivery through CI/CD processes
+⚡ Performance Optimization: Designed concurrent processing for five legacy APIs with a 1.5-second overall timeout, improving responsiveness and reliability.
+
+📡 Asynchronous Processing: Used Azure Event Hubs and Service Bus to move background tasks out of the main API request flow, improving responsiveness and scalability.
+
+🚀 Caching & Performance: Implemented Redis caching to reduce repeated calls to external APIs and databases, lowering system load and improving response times.
+
+💰 Cost Optimization: Optimized Azure Cosmos DB queries to reduce Request Unit (RU) consumption and database workload, helping lower infrastructure costs.
+
+🔐 Security & Authentication: Used Quarkus OIDC to dynamically retrieve public keys based on configured issuers, supporting secure and flexible token validation.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-- ☕ Java (11+)
-- ⚡ Quarkus, 🌱 Spring Boot
-
-### 🎨 Frontend
-- 🅰️ Angular
-- ⚛️ Next.js
-
-### 🧱 Architecture
+### 💻 Backend Development
+- ☕ Java
+- ⚡ Quarkus
+- 🌱 Spring Boot
+- 🔌 RESTful APIs
 - 🧩 Microservices
-- 🏛️ Clean Architecture
-- 📡 Event-Driven Systems
+- 🏗️ Hibernate and Maven
 
-### 🤖 AI Integration
-- 🔗 Integration with LLM APIs (AI assistants)
-- 💬 Prompt-based workflows and backend orchestration
-
-### ☁️ Cloud & Delivery
+### 🏛️ Architecture & Engineering Practices
+- 🧱 Clean Architecture
+- 📡 Event-Driven Architecture
+- 🧪 JUnit and Unit Testing
+- 🛡️ OWASP Security Practices
+- 🔍 SonarQube and Code Quality
 - 🔄 CI/CD Pipelines
-- 🐳 Docker
-- ☁️ Azure (📊 App Insights, 📡 Event Hub, 📨 Service Bus, 📈 ADX)
 
-### 🗄️ Data & Messaging
-- 🧮 SQL & 🧾 NoSQL
-- 📨 Messaging platforms (📡 Event Hub, 📨 Service Bus)
+### 🗄️ Databases & Messaging
+- 🌌 Azure Cosmos DB
+- ⚡ Redis
+- 🐬 MySQL
+- 🐘 PostgreSQL
+- 📨 Azure Service Bus
+- 📡 Azure Event Hubs
+- 🔄 Apache Kafka
+- 🧬 pgvector
+
+### ☁️ Cloud & Infrastructure
+- ☁️ Microsoft Azure
+- ☁️ Amazon Web Services (AWS)
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔧 Azure DevOps
+- 🖥️ Amazon EC2
+- 🪣 Amazon S3
+- 📦 Amazon ECS and Fargate
+- 🗄️ Amazon RDS
+- ⚙️ Azure Functions
+
+### 🎨 Frontend Development
+
+- 🅰️ Angular
+- ⚛️ React and Next.js
+- 🟦 TypeScript
+- 🟨 JavaScript
+
+### 🤖 AI & LLM Integration
+- 🦙 Ollama
+- 🔗 LangChain4j
+- 🧠 LLM API Integration
+- 🔌 Model Context Protocol (MCP)
+- 🛡️ AI Guardrails
 
 ---
 
